@@ -1,0 +1,22 @@
+{
+  "name": "chat-new",
+  "version": "2.0.0",
+  "description": "Socket IO Chat app using nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "keywords": [
+    "node",
+    "socket",
+    "chat",
+    "tcp",
+    "ip"
+  ],
+  "author": "Anuj Raval",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "*",
+    "express": "*"
+  }
+}
